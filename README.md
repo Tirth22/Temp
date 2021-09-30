@@ -204,9 +204,4 @@ Relevant Examples:
 
 * Optical Character Recognition
 </details>
-## Topics of ML
-| Topic                                                                                         |                                 Repository                         |
-|-----------------------------------------------------------------------------------------------|--------------------------------------------------------------------|
-|Sending email using Python                                                                     | [Jump to Repo](https://istevit.in/)                                |
-
 
