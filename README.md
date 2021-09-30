@@ -19,7 +19,7 @@ Machine learning (ML) is the study and the use of computer algorithms that can i
 
 ---
 <details>
-<summary>Automation & Bots</summary>
+<summary>Automation & Bots 🤖</summary>
 <br>
 
 
@@ -33,7 +33,7 @@ Relevant Examples:
 
 <details>
   
-<summary>Data Visualisation</summary>
+<summary>Data Visualisation 📊</summary>
 <br>
 
 Relevant Examples:
@@ -42,7 +42,7 @@ Relevant Examples:
 </details>
 
 <details>
-<summary>Naive Bayes Classifier</summary>
+<summary>Naive Bayes Classifier 👦</summary>
 <br>
 
 
@@ -52,7 +52,7 @@ Relevant Examples:
  </details>
 
 <details>
-<summary>Linear regression</summary>
+<summary>Linear regression📈</summary>
 <br>
 
 Relevant Examples:
@@ -61,7 +61,7 @@ Relevant Examples:
 </details>
 
 <details>
-<summary>Logistic regression</summary>
+<summary>Logistic regression↕️</summary>
 <br>
 
 
@@ -73,7 +73,7 @@ Relevant Examples:
   
 <details>
   
-<summary>K Nearest Neighbours</summary>
+<summary>K Nearest Neighbours🤝</summary>
 <br>
 
 Relevant Examples:
@@ -84,7 +84,7 @@ Relevant Examples:
 
 <details>
   
-<summary>Support Vector Machine </summary>
+<summary>Support Vector Machine🧮 </summary>
 <br>
   
 
@@ -96,7 +96,7 @@ Relevant Examples:
 
 <details>
   
-<summary>Decision trees </summary>
+<summary>Decision trees 🌲</summary>
 <br>
   
 
@@ -108,7 +108,7 @@ Relevant Examples:
 
 <details>
   
-<summary>Random forest </summary>
+<summary>Random forest🪵 </summary>
 <br>
 
 
@@ -120,8 +120,7 @@ Relevant Examples:
 
 <details>
   
-<summary>K Means Clustering
- </summary>
+<summary>K Means Clustering 👥</summary>
 <br>
 
 
@@ -132,7 +131,7 @@ Relevant Examples:
   </details>
   <details>
   
-<summary>Recommender Systems</summary>
+<summary>Recommender Systems ☁️</summary>
 <br>
 
 Relevant Examples:
@@ -142,7 +141,7 @@ Relevant Examples:
 </details>
   <details>
   
-<summary>Artificial Neural Networks</summary>
+<summary>Artificial Neural Networks 🧠</summary>
 <br>
 
 Relevant Examples:
@@ -153,7 +152,7 @@ Relevant Examples:
 
 <details>
   
-<summary>Convlutional Neural Networks</summary>
+<summary>Convlutional Neural Networks 🙈</summary>
 <br>
   
 Relevant Examples:
@@ -166,7 +165,7 @@ Relevant Examples:
 
 <details>
   
-<summary>Recurrent Neural Networks</summary>
+<summary>Recurrent Neural Networks 💹</summary>
 <br>
 
 
@@ -177,7 +176,7 @@ Relevant Examples:
   </details>
 <details>
   
-<summary>OpenCV</summary>
+<summary>OpenCV 📸</summary>
 <br>
 
 Relevant Examples:
@@ -186,7 +185,7 @@ Relevant Examples:
 </details>
 <details>
   
-<summary>Natural Language Processing </summary>
+<summary>Natural Language Processing 🔤 </summary>
 <br>
 
 
@@ -196,10 +195,8 @@ Relevant Examples:
 </details>
 <details>
   
-<summary>Computer Vision </summary>
+<summary>Computer Vision 👁 </summary>
 <br>
-
-
 
 Relevant Examples:
 
