@@ -73,7 +73,7 @@ Relevant Examples:
   
 <details>
   
-<summary>K Nearest Neighbours🤝</summary>
+<summary>K Nearest Neighbours 🤝</summary>
 <br>
 
 Relevant Examples:
@@ -84,7 +84,7 @@ Relevant Examples:
 
 <details>
   
-<summary>Support Vector Machine🧮 </summary>
+<summary>Support Vector Machine 🧮 </summary>
 <br>
   
 
@@ -108,7 +108,7 @@ Relevant Examples:
 
 <details>
   
-<summary>Random forest🪵 </summary>
+<summary>Random Forest 🪵 </summary>
 <br>
 
 
