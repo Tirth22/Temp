@@ -129,13 +129,17 @@ Relevant Examples:
 * Dominant color detection
 
   </details>
-Recommender Systems
+  <details>
+  
+<summary>Recommender Systems</summary>
+<br>
 
 Relevant Examples:
 
 * Recommend movies based on collaborative filtering 
 
-<details>
+</details>
+  <details>
   
 <summary>ANN</summary>
 <br>
