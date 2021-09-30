@@ -141,7 +141,7 @@ Relevant Examples:
 </details>
   <details>
   
-<summary>ANN</summary>
+<summary>Artificial Neural Networks</summary>
 <br>
 
 Relevant Examples:
@@ -152,7 +152,7 @@ Relevant Examples:
 
 <details>
   
-<summary>CNN</summary>
+<summary>Convlutional Neural Networks</summary>
 <br>
   
 Relevant Examples:
@@ -165,7 +165,7 @@ Relevant Examples:
 
 <details>
   
-<summary>RNN</summary>
+<summary>Recurrent Neural Networks</summary>
 <br>
 
 
