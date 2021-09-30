@@ -16,9 +16,43 @@ Machine learning (ML) is the study and the use of computer algorithms that can i
 
 ## Resources
 
+---
+Bots
 
+Data Visualisation
+
+Naive Bayes Classifier
+
+Linear regression
+
+Logistic regression
+
+K Nearest Neighbours
+
+Support Vector Machine 
+
+Decision trees
+
+Random forest
+
+K Means Clustering
+
+Recommender Systems
+
+ANN
+
+CNN
+
+RNN
+
+OpenCV
+
+Natural Language Processing 
+
+Computer Vision
 ## Topics of ML
 | Topic                                                                                         |                                 Repository                         |
 |-----------------------------------------------------------------------------------------------|--------------------------------------------------------------------|
 |Sending email using Python                                                                     | [Jump to Repo](https://istevit.in/)                                |
+
 | ||
