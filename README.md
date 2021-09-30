@@ -27,11 +27,16 @@ Relevant Examples:
 
 Data Visualisation
 
+Relevant Examples:
+
 * Covid data visualisation
 
 Naive Bayes Classifier
 
--
+Relevant Examples:
+
+* Given the weather conditions, each tuple classifies the conditions as fit(“Yes”) or unfit(“No”) for plaing golf.
+
 
 Linear regression
 
@@ -54,33 +59,44 @@ Relevant Examples:
 
 Support Vector Machine 
 
+Relevant Examples:
+
+* SVM for identifying the classification of genes given genes dataset
+
 Decision trees
 
 Relevant Examples:
 
-Predict the surviours left and evaluation metrics using the Titanic dataset.
+* Predict the surviours left and evaluation metrics using the Titanic dataset.
 
 Random forest
 
 Relevant Examples:
 
-Predict the surviours left and evaluation metrics using the Titanic dataset.
+* Predict the surviours left and evaluation metrics using the Titanic dataset.
 
 K Means Clustering
 
-Recommender Systems
 Relevant Examples:
 
-Recommend movies based on collaborative filtering 
+* Dominant color detection
+
+Recommender Systems
+
+Relevant Examples:
+
+* Recommend movies based on collaborative filtering 
 
 ANN.
 
 Relevant Examples:
+
 * Predict the label of the input image of MNIST Digits and show the evaluation metrics of the model used.
 
 CNN
 
 Relevant Examples:
+
 * Predict the label of the input image of Fashion MNIST  and show the evaluation metrics of the model used
 * Cat vs Dog Classifier
 * Hand Gesture Recognition
@@ -89,25 +105,25 @@ RNN
 
 Relevant Examples:
 
-Time Series Predictions using RNN.
+* Time Series Predictions using RNN.
 
 OpenCV
 
 Relevant Examples:
 
-Mask Detection using Haarcascades and opencv.
+* Mask Detection using Haarcascades and opencv.
 
 Natural Language Processing 
 
 Relevant Examples:
 
-Text rank algortihm to find the most important keywords in a paragraph
+* Text rank algortihm to find the most important keywords in a paragraph
 
 Computer Vision
 
 Relevant Examples:
 
-Optical Character Recognition
+* Optical Character Recognition
 
 ## Topics of ML
 | Topic                                                                                         |                                 Repository                         |
