@@ -17,13 +17,18 @@ Machine learning (ML) is the study and the use of computer algorithms that can i
 ## Resources
 
 ---
-Automation & Bots
+<details>
+<summary>Automation & Bots</summary>
+<br>
+
+
 
 Relevant Examples:
 
 * Sending email using python
 * Linkedin Bots
 
+  </details>
 
 Data Visualisation
 
