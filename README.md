@@ -28,108 +28,178 @@ Relevant Examples:
 * Sending email using python
 * Linkedin Bots
 
-  </details>
+ </details>
 
-Data Visualisation
+<details>
+  
+<summary>Data Visualisation</summary>
+<br>
 
 Relevant Examples:
 
 * Covid data visualisation
+</details>
 
-Naive Bayes Classifier
+<details>
+<summary>Naive Bayes Classifier</summary>
+<br>
+
 
 Relevant Examples:
 
 * Given the weather conditions, each tuple classifies the conditions as fit(“Yes”) or unfit(“No”) for plaing golf.
+ </details>
 
-
-Linear regression
+<details>
+<summary>Linear regression</summary>
+<br>
 
 Relevant Examples:
 
 * Air Quality Prediction
+</details>
 
-Logistic regression
+<details>
+<summary>Logistic regression</summary>
+<br>
+
+
 
 Relevant Examples:
 
 * Diabeties Classification using Logistic regression
-
-K Nearest Neighbours
+</details>
+  
+<details>
+  
+<summary>K Nearest Neighbours</summary>
+<br>
 
 Relevant Examples:
  
 * Face recognition using haarcascades and KNN
+  
+</details>
 
-
-Support Vector Machine 
+<details>
+  
+<summary>Support Vector Machine </summary>
+<br>
+  
 
 Relevant Examples:
 
 * SVM for identifying the classification of genes given genes dataset
 
-Decision trees
+ </details>
+
+<details>
+  
+<summary>Decision trees </summary>
+<br>
+  
 
 Relevant Examples:
 
 * Predict the surviours left and evaluation metrics using the Titanic dataset.
 
-Random forest
+</details>
+
+<details>
+  
+<summary>Random forest </summary>
+<br>
+
 
 Relevant Examples:
 
 * Predict the surviours left and evaluation metrics using the Titanic dataset.
 
-K Means Clustering
+  </details>
+
+<details>
+  
+<summary>K Means Clustering
+ </summary>
+<br>
+
 
 Relevant Examples:
 
 * Dominant color detection
 
+  </details>
 Recommender Systems
 
 Relevant Examples:
 
 * Recommend movies based on collaborative filtering 
 
-ANN.
+<details>
+  
+<summary>ANN</summary>
+<br>
 
 Relevant Examples:
 
 * Predict the label of the input image of MNIST Digits and show the evaluation metrics of the model used.
 
-CNN
+</details>
 
+<details>
+  
+<summary>CNN</summary>
+<br>
+  
 Relevant Examples:
 
 * Predict the label of the input image of Fashion MNIST  and show the evaluation metrics of the model used
 * Cat vs Dog Classifier
 * Hand Gesture Recognition
 
-RNN
+</details>
+
+<details>
+  
+<summary>RNN</summary>
+<br>
+
 
 Relevant Examples:
 
 * Time Series Predictions using RNN.
 
-OpenCV
+  </details>
+<details>
+  
+<summary>OpenCV</summary>
+<br>
 
 Relevant Examples:
 
 * Mask Detection using Haarcascades and opencv.
+</details>
+<details>
+  
+<summary>Natural Language Processing </summary>
+<br>
 
-Natural Language Processing 
 
 Relevant Examples:
 
 * Text rank algortihm to find the most important keywords in a paragraph
+</details>
+<details>
+  
+<summary>Computer Vision </summary>
+<br>
 
-Computer Vision
+
 
 Relevant Examples:
 
 * Optical Character Recognition
-
+</details>
 ## Topics of ML
 | Topic                                                                                         |                                 Repository                         |
 |-----------------------------------------------------------------------------------------------|--------------------------------------------------------------------|
