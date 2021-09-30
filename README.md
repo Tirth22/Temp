@@ -17,39 +17,98 @@ Machine learning (ML) is the study and the use of computer algorithms that can i
 ## Resources
 
 ---
-Bots
+Automation & Bots
+
+Relevant Examples:
+
+* Sending email using python
+* Linkedin Bots
+
 
 Data Visualisation
 
+* Covid data visualisation
+
 Naive Bayes Classifier
+
+-
 
 Linear regression
 
+Relevant Examples:
+
+* Air Quality Prediction
+
 Logistic regression
 
+Relevant Examples:
+
+* Diabeties Classification using Logistic regression
+
 K Nearest Neighbours
+
+Relevant Examples:
+ 
+* Face recognition using haarcascades and KNN
+
 
 Support Vector Machine 
 
 Decision trees
 
+Relevant Examples:
+
+Predict the surviours left and evaluation metrics using the Titanic dataset.
+
 Random forest
+
+Relevant Examples:
+
+Predict the surviours left and evaluation metrics using the Titanic dataset.
 
 K Means Clustering
 
 Recommender Systems
+Relevant Examples:
 
-ANN
+Recommend movies based on collaborative filtering 
+
+ANN.
+
+Relevant Examples:
+* Predict the label of the input image of MNIST Digits and show the evaluation metrics of the model used.
 
 CNN
 
+Relevant Examples:
+* Predict the label of the input image of Fashion MNIST  and show the evaluation metrics of the model used
+* Cat vs Dog Classifier
+* Hand Gesture Recognition
+
 RNN
+
+Relevant Examples:
+
+Time Series Predictions using RNN.
 
 OpenCV
 
+Relevant Examples:
+
+Mask Detection using Haarcascades and opencv.
+
 Natural Language Processing 
 
+Relevant Examples:
+
+Text rank algortihm to find the most important keywords in a paragraph
+
 Computer Vision
+
+Relevant Examples:
+
+Optical Character Recognition
+
 ## Topics of ML
 | Topic                                                                                         |                                 Repository                         |
 |-----------------------------------------------------------------------------------------------|--------------------------------------------------------------------|
