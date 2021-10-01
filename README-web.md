@@ -7,7 +7,7 @@
 </h2>
 
 <p align="center">
-<img src="https://github.com/Tirth22/Temp/blob/main/Webdev_gif.gif">
+<img src="https://github.com/Tirth22/Temp/blob/main/Webdev_gif.gif" width="400">
 </p>
 
 
