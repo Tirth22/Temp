@@ -135,7 +135,7 @@ Relevant Examples:
 ### Hurrah! You just made your first web app ! 🎉
 
 
-## Some Useful Resources 📚
+## Some Useful Resources 📝
 * <a href = "https://www.geeksforgeeks.org/web-development/?ref=lbp" target="_blank"> Intro to Web Dev </a>
 * <a href = "https://www.w3schools.com/whatis/" target="_blank"> Roadmap to WebDev </a>
 * <a href = "https://www.studytonight.com/post/complete-guide-to-css-flexbox-part-I" target="_blank"> Intro to Flexbox </a>
