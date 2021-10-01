@@ -231,7 +231,7 @@ Relevant Examples:
 
 * Click on the plus icon to create a new app service 
 
----
+
 
 #### Creating an App Service:👨‍🍳
 
@@ -249,7 +249,7 @@ Relevant Examples:
   <img src="https://github.com/Tirth22/Temp/blob/main/pic5.png" width=500px> 
 </p>
 
----
+
 
 #### Deploying the API: 🚀
 <p align="center">
