@@ -134,6 +134,12 @@ Relevant Examples:
 
 ### Hurrah! You just made your first web app ! 🎉
 
+## Some Useful Resources
+* <a href = "https://www.geeksforgeeks.org/web-development/?ref=lbp"> Intro to Web Dev </a>
+* 
+
+
+
 
 <p align="center">
 	With :heart: &nbsp;by <a href="https://istevit.in/" target="_blank">ISTE-VIT</a>
