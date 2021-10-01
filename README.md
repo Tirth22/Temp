@@ -215,12 +215,14 @@ Relevant Examples:
 * Sign in / Sign up on Azure.  
 * In VS Code download the Azure Extension.
 
-// pic 1
+<img src="https://github.com/Tirth22/Temp/blob/main/pic1.png">
+
 
 * Now sign into Azure from VS Code.
 * Then open this tab
 
-// pic2
+<img src="https://github.com/Tirth22/Temp/blob/main/pic2.png">
+
 
 * If it asks you to create a new workspace, click on yes and create a new workspace.
 
@@ -230,19 +232,20 @@ Relevant Examples:
 
  1. Enter a globally unique name for your app service.
 
-//pic3
+<img src="https://github.com/Tirth22/Temp/blob/main/pic3.png">
+
 
  2. Select runtime stack is python 3.8 (or any other version according to your API )
 
-//pic 4
+<img src="https://github.com/Tirth22/Temp/blob/main/pic4.png"> 
 
 3. Choose the Free tier service.
 
-//pic 5
+<img src="https://github.com/Tirth22/Temp/blob/main/pic5.png"> 
 
 ---
 ### Deploying the API: 🚀
-//pic6
+<img src="https://github.com/Tirth22/Temp/blob/main/pic6.png">
 * Right-click on the app service you created.
 * Click on Deploy to the Web App.
 * Check the deployment logs if there are any errors.
