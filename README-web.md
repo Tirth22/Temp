@@ -14,7 +14,13 @@
 
 ## What is WebDev ?  🧠
 
-Machine learning (ML) is the study and the use of computer algorithms that can improve itself through experience and by the use of data. It is an application of Artificial Intelligence (AI) that provides systems the ability to automatically learn and improve from experience without being explicitly programmed. It involves computers discovering how they can perform various tasks. It involves computers learning from data provided so that they carry out certain tasks. For simple tasks assigned to computers, it is possible to program algorithms telling the machine how to execute all steps required to solve the problem at hand. For the advanced tasks, it can be challenging to manually create the needed algorithms. In practice, it can turn out to be more effective to help the machine develop its own algorithm, rather than having programmers specify every needed step.
+Web development encompasses lots of skills, technologies and techniques. Basically, web development is the work that goes into creating websites for the internet. Web development can entail anything from a simple static web page, to full fledged web apps, e-commerce sites and social networks.
+
+## What do Front-End Web Developers Do?
+Front-end developers are the ones that create the part of a website that you see. They use HTML, CSS and usually JavaScript to create the front-end. They might also utilize a framework like React, Vue or Angular, depending on their personal skillset and the demands of the client.
+
+## What do Back-End Web Developers Do?
+Back-end developers are responsible for making sure that the data the website or web app needs is available for the front-end to present. This involves setting up servers, creating API's and making sure that the product can handle the amount of users it wants to serve. This gets more complex the more users access a site.
 
 
 ## Topics 📚
