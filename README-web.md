@@ -43,7 +43,7 @@ Relevant Examples:
  </details>
 
  <details>
-<summary>INTERMEDIATE( Projects using Public APIs) </summary>
+	<summary>INTERMEDIATE - <b> Projects using Public APIs </b> </summary>
 
 <br>
 
@@ -60,7 +60,7 @@ Relevant Examples:
  </details>
  
   <details>
-<summary>ADVANCED ( Full Stack Projects) </summary>
+	<summary>ADVANCED -  <b> Full Stack Projects </b> </summary>
 
 <br>
 
