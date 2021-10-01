@@ -194,7 +194,7 @@ Relevant Examples:
 
 * Optical Character Recognition
 </details>
-  
+  <details>
 <summary>Natural Language Processing 🔤 </summary>
 <br>
 
@@ -203,7 +203,6 @@ Relevant Examples:
 
 * Text rank algortihm to find the most important keywords in a paragraph
 </details>
-<details>
   
 
 
