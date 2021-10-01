@@ -204,56 +204,65 @@ Relevant Examples:
 * Optical Character Recognition
 </details>
 
----
+
+
 ## Deployment
 
 
-##  Deployment using Microsoft Azure ☁️
+###  Deployment using Microsoft Azure ☁️
 
-### Setup: ⚙️
+#### Setup: ⚙️
 * Avail your Github Student Pack. 
 * Sign in / Sign up on Azure.  
 * In VS Code download the Azure Extension.
 
-<img src="https://github.com/Tirth22/Temp/blob/main/pic1.png">
-
+<p align="center">
+  <img src="https://github.com/Tirth22/Temp/blob/main/pic1.png" width=500px>
+</p>
 
 * Now sign into Azure from VS Code.
 * Then open this tab
-
-<img src="https://github.com/Tirth22/Temp/blob/main/pic2.png">
-
+<p align="center">
+  <img src="https://github.com/Tirth22/Temp/blob/main/pic2.png" width=500px>
+</p>
 
 * If it asks you to create a new workspace, click on yes and create a new workspace.
 
 * Click on the plus icon to create a new app service 
+
 ---
-### Creating an App Service:👨‍🍳
+
+#### Creating an App Service:👨‍🍳
 
  1. Enter a globally unique name for your app service.
-
-<img src="https://github.com/Tirth22/Temp/blob/main/pic3.png">
-
+<p align="center">
+  <img src="https://github.com/Tirth22/Temp/blob/main/pic3.png" width=500px>
+</p>
 
  2. Select runtime stack is python 3.8 (or any other version according to your API )
-
-<img src="https://github.com/Tirth22/Temp/blob/main/pic4.png"> 
-
+<p align="center">
+  <img src="https://github.com/Tirth22/Temp/blob/main/pic4.png" width=500px> 
+</p>
 3. Choose the Free tier service.
-
-<img src="https://github.com/Tirth22/Temp/blob/main/pic5.png"> 
+<p align="center">
+  <img src="https://github.com/Tirth22/Temp/blob/main/pic5.png" width=500px> 
+</p>
 
 ---
-### Deploying the API: 🚀
-<img src="https://github.com/Tirth22/Temp/blob/main/pic6.png">
+
+#### Deploying the API: 🚀
+<p align="center">
+  <img src="https://github.com/Tirth22/Temp/blob/main/pic6.png" width=500px>
+</p>
+
 * Right-click on the app service you created.
 * Click on Deploy to the Web App.
 * Check the deployment logs if there are any errors.
 * After the API gets deployed test it using Postman (or any other API testing application).
 * Make a collection on postman for the required routes.
 * Now create an Issue and send a Pull Request(attach the postman collection).
----
+
 
 ### Hurrah! You just made your first Pull request ! 🎉
 
----
+
