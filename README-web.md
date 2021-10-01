@@ -126,7 +126,7 @@ Relevant Examples:
 
 
 
-### Hurrah! You just made your first Pull request ! 🎉
+### Hurrah! You just made your first web app ! 🎉
 
 
 <p align="center">
