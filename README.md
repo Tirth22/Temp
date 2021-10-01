@@ -266,3 +266,7 @@ Relevant Examples:
 ### Hurrah! You just made your first Pull request ! 🎉
 
 
+<p align="center">
+	With :heart: &nbsp;by <a href="https://istevit.in/" target="_blank">ISTE-VIT</a>
+</p>
+
