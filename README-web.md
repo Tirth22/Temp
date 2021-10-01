@@ -26,7 +26,7 @@ Back-end developers are responsible for making sure that the data the website or
 ## Topics 📚
 
 <details>
-<summary>BEGINNER(Static Websites) </summary>
+	<summary>BEGINNER - <b> Static Websites </b> </summary>
 
 <br>
 
