@@ -154,7 +154,7 @@ Relevant Examples:
 
 <details>
   
-<summary>Convlutional Neural Networks 🙈</summary>
+<summary>Convolutional Neural Networks 🙈</summary>
 <br>
   
 Relevant Examples:
@@ -186,6 +186,14 @@ Relevant Examples:
 * Mask Detection using Haarcascades and opencv.
 </details>
 <details>
+	
+<summary>Computer Vision 👁 </summary>
+<br>
+
+Relevant Examples:
+
+* Optical Character Recognition
+</details>
   
 <summary>Natural Language Processing 🔤 </summary>
 <br>
@@ -197,13 +205,7 @@ Relevant Examples:
 </details>
 <details>
   
-<summary>Computer Vision 👁 </summary>
-<br>
 
-Relevant Examples:
-
-* Optical Character Recognition
-</details>
 
 
 
