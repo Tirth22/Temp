@@ -20,7 +20,8 @@ Machine learning (ML) is the study and the use of computer algorithms that can i
 ## Topics 📚
 
 <details>
-<summary>Automation & Bots 🤖</summary>
+<summary>Automation & Bots 🤖 </summary>
+
 <br>
 
 
