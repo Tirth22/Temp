@@ -103,9 +103,9 @@ Relevant Examples:
   <img src="https://github.com/Tirth22/Temp/blob/main/pic3.png" width=500px>
 </p>
 
- 2. Select runtime stack is python 3.8 (or any other version according to your API )
+ 2. Select the runtime stack (Node Version in which you have made your project )
 <p align="center">
-  <img src="https://github.com/Tirth22/Temp/blob/main/pic4.png" width=500px> 
+  <img src="https://github.com/Tirth22/Temp/blob/main/deploy.png" width=500px> 
 </p>
 3. Choose the Free tier service.
 <p align="center">
@@ -122,9 +122,8 @@ Relevant Examples:
 * Right-click on the app service you created.
 * Click on Deploy to the Web App.
 * Check the deployment logs if there are any errors.
-* After the API gets deployed test it using Postman (or any other API testing application).
-* Make a collection on postman for the required routes.
-* Now create an Issue and send a Pull Request(attach the postman collection).
+* After the webapp gets deployed test it using the deployed URL.
+
 
 
 ### Hurrah! You just made your first Pull request ! 🎉
